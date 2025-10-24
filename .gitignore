@@ -1,0 +1,13 @@
+.vscode/
+.vscode-test/
+.history/
+.VSCodeCounter/
+__pycache__/
+
+.env
+env
+venv
+.venv
+
+data
+logs
