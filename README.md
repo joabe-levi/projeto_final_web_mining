@@ -2,18 +2,6 @@
 
 Sistema de extração, transformação e carregamento (ETL) para análise de dados financeiros, desenvolvido em Python com pipeline modular e persistência em DuckDB. Inclui web scraping do InfoMoney e integração com API YFinance para dados de criptomoedas.
 
-## 📋 Índice
-
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias](#tecnologias)
-- [Instalação](#instalação)
-- [Configuração](#configuração)
-- [Como Executar](#como-executar)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Pipeline ETL](#pipeline-etl)
-- [Exemplos de Uso](#exemplos-de-uso)
-- [Contribuição](#contribuição)
-
 ## 🚀 Funcionalidades
 
 ### Pipeline de Scraping (InfoMoney)
